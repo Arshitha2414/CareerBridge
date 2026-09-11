@@ -271,7 +271,5 @@ Rathinam Technical Campus
 
 CareerBridge AI aims to help students clearly understand where they are in their career preparation, what skills they are missing, what they should learn next, and how they can progress step by step towards becoming job ready.
 
-```
-
 
 
